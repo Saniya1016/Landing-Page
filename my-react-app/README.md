@@ -1,6 +1,4 @@
-Here's a sample README for your landing page project built with React and Tailwind CSS:
 
----
 
 # Landing Page
 
